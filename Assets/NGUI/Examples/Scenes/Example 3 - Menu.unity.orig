@@ -1223,8 +1223,13 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 5}
+<<<<<<< HEAD
   m_LocalRotation: {x: 0, y: 0, z: .173648193, w: .984807789}
-  m_LocalPosition: {x: -252, y: 198, z: 0}
+  m_LocalPosition: {x: -171.009048, y: 218.139053, z: -3.39164762e-05}
+=======
+  m_LocalRotation: {x: 0, y: 0, z: -.1305262, w: .991444886}
+  m_LocalPosition: {x: -290, y: 56, z: 0}
+>>>>>>> SecondBranch
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 89}
@@ -2493,13 +2498,22 @@ MonoBehaviour:
   updateAnchors: 1
   mColor: {r: 1, g: 1, b: 1, a: 1}
   mPivot: 4
+<<<<<<< HEAD
+  mWidth: 255
+  mHeight: 76
+=======
   mWidth: 420
-  mHeight: 58
+  mHeight: 352
+>>>>>>> SecondBranch
   mDepth: 22
   autoResizeBoxCollider: 0
   hideIfOffScreen: 0
   keepAspectRatio: 0
-  aspectRatio: 7.24137926
+<<<<<<< HEAD
+  aspectRatio: 3.35526323
+=======
+  aspectRatio: 1.19318187
+>>>>>>> SecondBranch
   mType: 0
   mFillDirection: 4
   mFillAmount: 1
@@ -2511,7 +2525,7 @@ MonoBehaviour:
   bottomType: 1
   topType: 1
   mAtlas: {fileID: 11400000, guid: 2f2473f73b9ca724f9080d6d76009ea2, type: 2}
-  mSpriteName: NGUI
+  mSpriteName: X
   mFillCenter: 1
 --- !u!114 &170
 MonoBehaviour:
